@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 98,
+    "uniqCompNum": 99,
     "versionPublish": "4.3.4",
     "favicon": "",
     "noImageResize": ""
@@ -2213,6 +2213,19 @@
           ],
           "_name": "content2",
           "_anchor": "content2-2p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-s\" data-toolbar=\"-mbrBtnMove\">BUY OUR CARA</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2q"
         }
       ]
     }
