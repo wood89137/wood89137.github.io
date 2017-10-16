@@ -1,0 +1,2220 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 98,
+    "versionPublish": "4.3.4",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "WELCOME TO POMERANIAN HOUSE - LOOKING FOR A FURY-FRIEND?",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Pomeranian House."
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-o\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-r\">PUPPIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-q\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#form1-s\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POMERANIAN HOUSE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-t"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/1Mw8X9rqVAU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=1Mw8X9rqVAU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "WELCOME!",
+          "text": "At Pomeranian House, it's no secret that pets are our passion. It drives everything we do. In fact, our commitment to dogs and their owners has made us one of the world leader in pet care and we're pretty proud of that. ",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#features1-r\" data-toolbar=\"-mbrBtnMove\">VIEW AVAILABLE PUPPIES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-o",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#fac51c"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#f97352"
+          },
+          "text": "<p>&nbsp; &nbsp; </p><p>&nbsp; &nbsp;To protect my puppies, prices listed are for \"Pets ONLY\" No AKC papers. I have many reasons why I do this. To see why <a href=\"page6.html\">CLICK HERE</a>.</p><p>&nbsp; &nbsp; We will NOT hold a puppy without a <a href=\"page7.html\">Deposit</a>. Emailing me your intent to make a deposit or having an appt, will not HOLD a puppy.&nbsp;</p><p>&nbsp; &nbsp; Due to Parvo being a HUGE threat, we can not allow visitors into my home to view puppies until they have first vaccinations. </p><p>&nbsp; &nbsp; We can send videos though.</p><p>&nbsp; &nbsp; We want you to be able to own the dog of your DREAMS, That is why can take credit and we have payment plans avialable.</p><p>&nbsp; &nbsp; When inquiring about our puppies please include a little about yourselves and what your looking for. Please no one line emails. When &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Inquiring Please see our list of questions below.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; How long will your puppy be left home alone during the day?</span><br></p><p>&nbsp; &nbsp; What made you decide on a Pomeranian?</p><p>&nbsp; &nbsp; Have you ever had to rehome a pet or bring one to a shelter?</p><p>&nbsp; &nbsp; How do you plan to potty train your puppy?&nbsp;</p><p>&nbsp; &nbsp; How long do you think Potty Training takes?</p>",
+          "text2": "<p>&nbsp;Have you owned a dog before? Or currently? If so how many and what breeds?</p><p>Do you live alone, with family, and are their children in the home? If so how many? Ages?</p><p>Do you own other pets? If so, please list them and tell us a bit about them.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1n",
+          "_styles": {
+            "P": {
+              "color": "#41a85f",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/reggie4-500x322.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dela1-500x333.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/19424499-10160091346900206-954287047453294171-n-600x750.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cara1-1-500x484.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "REGGIE - Male",
+          "subtitle1": "PLAYFUL AND ENERGETIC BOY",
+          "caption1": "\"Hello, my name is Reggie and I can't wait to meet my forever family, I will be ready very soon to make my trip there\".",
+          "title2": "DELA - Female",
+          "subtitle2": "READY TO GO!",
+          "caption2": "These little girls are just now starting to explore. Dela seems adventurous and seeks attention. ",
+          "title3": "PAULIE - Female",
+          "subtitle3": "AVAILBLE FOR SALE",
+          "caption3": "We have this ADORABLE white girl for sale! Her name is Paulie. She is a very confident girl with the HUGEST personality!.",
+          "title4": "CARA - Female",
+          "subtitle4": "WELCOMING PERSONALITY",
+          "caption4": "Cara is a little chunk who is ready to take a nap on your cozy couch! She loves people, especially when they give her long belly rubs!",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page5.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-r",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WHAT OUR FANTASTIC CUSTOMERS SAY",
+          "subtitle": "Here are a few things my past customers have  to say about the dog they got from us.  These are just a couple or current examples. I hope you enjoy them! Please allow time for pics to load. ",
+          "testimonial": [
+            {
+              "authorName": "Jing S.",
+              "authorBio": "Customer",
+              "text": "<p>“hi Doniqua,</p><p><span style=\"font-size: 1.125rem;\">How are you? Me and shibby are home =) she has been such a good girl during the ride home, very active and always ready to play.&nbsp;</span><span style=\"font-size: 1.125rem;\">I took her to the vet before we went home, and everybody looooved her, even the vet's dog, he was trying to sniff her, but i was holding her the whole time... so no worries. she passed the exams with flying colors.</span><span style=\"font-size: 1.125rem;\">&nbsp; When we got home, she was so excited to play with my golden, they were sniffing each other, but i didn't want her to get sick so i just put her in the bathroom.... they have been staring at each other for awhile, but shibby just started looking around and started to play with all her toys.</span><span style=\"font-size: 1.125rem;\">&nbsp; She ate a little and drank a lot of water before going to bed, she loves the tile floor, im guessing because its cooler... she is sleeping like an angel now =)</span><span style=\"font-size: 1.125rem;\">&nbsp; &nbsp;On our way back home, me and my boyfriend decided to name her ShoSho, it means the best, and girly girl in chinese.</span><span style=\"font-size: 1.125rem;\">&nbsp; &nbsp; We took over 150+ pictures of her already.... i have attached a few.. i will keep on taking picture of her, and email them to you.</span><span style=\"font-size: 1.125rem;\">&nbsp; &nbsp; Again, thank you so much for selling her to me, it must have been hard for your family, but we will take really good care of her, and she will get  lots and lots of love =)</span></p><p><span style=\"font-size: 1.125rem;\">best wishes</span><br></p><p>Jing”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/shibby-at-the-vet-160x120.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Suffian A.",
+              "authorBio": "Customer",
+              "text": "<p>“Hi Doniqua,</p><p>Moch (AKA Endor) is doing very well!  He is eating and beginning to explore the \"new land\".  I cannot get enough of him!!  So far his personality and mine are so so compatible.  I feel so lucky to have found him, thank you SO MUCH for raising such a little love muffin.  I took him for a little ride today to the local Petco.  Kept him in my arms and new dog carrier.  He did get car sick again on the way back.  Poor little Mochi.  He seems to be doing well otherwise.  I will tell you that I snuck up on him late last night and he was snuggled with his toy that has his \"home scent\".  Awwwe, it almost broke my heart!  I have been trying to take him everywhere with me to get him used to strangers.  He is such a doll!  Seriously.  :-D  I took him to the office with me on Monday and he was so so good there, I can't tell you!  My co-workers are in love.  One of them took him to her desk and posed him for a picture which I have attached.  You can't tell if he is real or not!  Haha.   I cannot tell you how much of a dream he is.  He is seriously the best dog in the world.  We have started training him a bit.  He can already sit, come and stay (for a little while).  So far so good (fingers crossed).  He is so puppy pad trained it's insane!  (THANK YOU FOR THAT!) He is to die for.  I know how hard it was for you to give him up.  I want to thank you so much for that.  I will keep you posted with every little tidbit of news, photos and videos of him and maybe a little play date too!!&nbsp;</p><p>Thanks again for everything.  I will be checking your website daily to keep up with all of Mochi's relatives and family!  Hee hee.&nbsp;<span style=\"font-size: 1.125rem;\">.”</span></p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mochibath-106x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Bri Jhollman C.",
+              "authorBio": "Customer",
+              "text": "<p>“Hi Doniqua!</p><p><span style=\"font-size: 1.125rem;\">&nbsp; Here are two pictures of Cisco from his obedience class graduation! He did so good – he got a diploma and all! =) We are going to work on what he has learned so far and put him in an intermediate class next year. He just needs to get better on the basic stuff right now!</span><span style=\"font-size: 1.125rem;\">&nbsp; We had him “fixed” a couple weeks ago. He handled it so well – I think Nicole and I were more traumatized than he was. We gave him lots of love and wet food and he was better in no time. He literally snapped out of it 24 hours later and was back to his self! That was nice.</span><span style=\"font-size: 1.125rem;\">&nbsp; He is doing really great and we love him to pieces!</span></p><p>Bri.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/cicsoc-edit-157x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-q"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/sKycexaW8cU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=sKycexaW8cU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "A Little Bit About Us - Where we live&nbsp;",
+          "caption": "<p>We are now located in Oklahoma. We just moved here from California. We live on 3 beautiful acres. It is so pretty and GREEN here!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-10"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE ABOUT US</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "WE RESPOND TO ALL INQUIRIES PROMPTLY.<br>IF YOU DO NOT HEAR BACK FROM US WITHIN 24 HOURS, PLEASE E-MAIL AGAIN, INCLUDE YOUR PHONE NUMBER AND BEST TIME TO CALL YOU.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>",
+          "form": {
+            "action": "wood89137@gmail.com",
+            "alerts": {
+              "success": "IMPORTANT!\nYOU MAY WANT TO CHECK YOUR \"SPAM\" OR \"JUNK\" EMAIL FOLDERS IF YOU DON'T HEAR FROM US WITHIN 24 HOURS EVEN WHEN SEVERAL EMAILS HAVE ALREADY BEEN EXCHANGED.\n\nINTERNET SERVICE PROVIDERS ARE AGGRESSIVELY WORKING TO REDUCE SPAM.\nAS A RESULT, SOME LEGITIMATE MAIL IS ALSO TAGGED AND EITHER BLOCKED OR PUT INTO SPAM / JUNK FOLDER."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-s",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        }
+      ]
+    },
+    "CONTACT US": {
+      "settings": {
+        "title": "Web Page Maker Title",
+        "meta_descr": "Web Page Maker Description",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-k",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wpt-9-128x128.png",
+              "height": 128,
+              "alt": "Domestic Pet Travel",
+              "link": "index.html",
+              "title": "Domestic Pet Travel",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-l",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Pomeranian House."
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "DELA - FEMALE",
+        "order": 5
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Pomeranian House.",
+          "_anchor": "footer1-11"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#c1c1c1",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dela-500x334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dela-500x334-500x334.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dela1-1-500x333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dela1-1-500x333-500x333.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dela2-500x333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dela2-500x333-500x333.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dela3-500x334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dela3-500x334-500x334.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-14"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-o\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-r\">PUPPIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-q\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#form1-s\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POMERANIAN HOUSE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-12"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>These little girls are just now starting to explore. Dela seems adventurous and seeks attention. When arriving to her new home, Dela will arrive up to date on vaccinations, vet checked, and pre-spoiled. Imagine waking up to loving puppy kisses every morning! Hurry, hurry! This cutie has her bags packed and is ready to venture off to her new home! </p><p>Age: 8 Weeks old</p><p>Price: $800</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-15"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-s\" data-toolbar=\"-mbrBtnMove\">BUY OUR DALE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-16"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "REGGIE - MALE",
+        "order": 7
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Pomeranian House.",
+          "_anchor": "footer1-17"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#c1c1c1",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/reggie-500x494.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/reggie-500x494-500x494.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/reggie1-500x413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/reggie1-500x413-500x413.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/reggie3-500x364.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/reggie3-500x364-500x364.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/reggie4-1-500x322.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/reggie4-1-500x322-500x322.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-18"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-o\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-r\">PUPPIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-q\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#form1-s\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POMERANIAN HOUSE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>\"Hello, my name is Reggie and I can't wait to meet my forever family, I am ready right now to make my trip there. I like my tummy rubbed and cuddles during my nap. My mom says I am smart and very healthy. I would love to meet you face to face and shower you with puppy kisses. You will just love my low to non shedding, allergy friendly coat. I am learning new things every day and just starting to eat dry food on my own. So start planning for me to be the new addition to your family! I would love to be part of your family very soon!\" </p><p>Age: 7 Weeks old</p><p>Price: $750</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1a"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-s\" data-toolbar=\"-mbrBtnMove\">BUY OUR REGGIE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1b"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "A LITTLE BIT ABOUT US",
+        "order": 4
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Pomeranian House.",
+          "_anchor": "footer1-1h"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-o\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-r\">PUPPIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-q\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#form1-s\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POMERANIAN HOUSE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1i"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/house-720x537.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "A LITTLE BIT ABOUT US",
+          "text": "<p>We are now located in Southern Texas. We just moved here from California. We live on 3 beautiful acres. It is so pretty and GREEN here! Here is a picture of our home. We just moved in so no landscaping has been done. But it will be done soon!!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "&nbsp; How we treat our Poms",
+          "meta": "Our Poms are all part of our family. They all get to come in the house, go on road trips, (sometimes to get a french fry or two or to go to school to visit all the kids who lavish them with affections!) and are free to run and play with the kids and I. We love our little poms.  They are each an individual, with a name, a personality of their own, and loved by us.  They are not numbers, puppy making machines, and they are not expendable.  They are our cherished pets first, and occasionally they have puppies to share with you. <br>    All poms get to come in at night. They get tucked into their bed (a crate with a little fleece bed in it).  During the day they have full run of the backyard.  Most days they get to play with the kids, or sit in my lap while I sit on the porch to watch the kids play.  They have food out for them and clean water in three different areas for them at all times!  They are all wormed and vaccinated on schedule.  They are brushed and groomed as often as needed. I hate matted dirty poms! <br>   We love our poms.  We pamper them and respect their needs and try very hard to let them know we cherish them. Our puppies are always enthusiastically anticipated, and carefully planned. We hope you will take some time to see our site, and learn more about all of us here.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1k"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "What makes them so special!",
+          "meta": "&nbsp;I am very proud as to how we raise our puppies.  They are so delicate and fragile, impressionable and special.  We do not lock them in cages and forget about them.  We do not ignore them til they are ready to go to a new home.  We love our puppies and have so much fun with each litter. My kids cry each time one leaves still!<br>   When a litter is expected, mother is kept in her 'bed' crate in the room with us while we closely monitor her actions, temp, and mood.  When her temp drops, or her actions tell us she is close she is moved into the bathroom with a special delivery bed lined with clean puppy pads.  Puppy pads are changed after the birth of each puppy to ensure the pups are kept clean and sanitary.  I sit with the mother, pet her, soothe her, and try to comfort her as best I can through her labor and delivery.  I help clean each puppy, which helps imprint them to the human touch and smell. This is an important step in raising nice friendly social puppies. I also stay with mom and pups and make sure they stay warm, and eat, and be sure they are strong ect. <br>  Once labor is over, Mom and pups get a special cozy, padded bed.  The bathroom becomes her new 'space'.  If we have more then one mother, Moms are kept in a nice large wire crate, next to my bed. Heat lamps or heating pads are used when needed in the winter to help keep puppies warm and cozy. In the summer we run our air so that our home doesn't get to hot here in Texas for us, and for the dogs. Fresh food and water is there for her and a puppy pad is put out 'just in case' she can't wait to go outside.<br>   The puppies get held many times a day, everyday.  They know us by smell at first, then they start the hear us, then eventually they see us.  They can start to wag their tails before the ears and eyes open.  They usually start to wag their tails when we come in and pet them.<br>    As they grow they get used to all kinds of sounds of the home.  Here are a few they are exposed to : the tv, radio, phone, vaccum, other dogs barking, kids talking, laghing, toys being played with, the door bell, chairs sliding on the floor, water running, doors opening, and so much more.  This is all very important imprinting as the puppy will be used to the everyday noises of the home.  They come to accept all of these sounds as normal.  That makes them stronger, friendlier, more outgoing, confident, and makes the transition to your home easier since all they need to get used to is your new family!  Kenneled dogs don't get this.  They don't know what a 'family' sounds like.  That makes them scared and timid, and fearful to explore new things.  That is why I feel our puppies are well socailized and off to a good emotional start.<br>   Each puppy will be wormed on and vaccinated before they leave my home.  That gets them off to a very HEALTHY start. They will come with a shot record, a puppy pack (food and instruction booklet). They will also see a vet who will carefully inspect them to be sure they are healthy and ready for their new homes. We also offer a 1 year guarantee on all puppies and a lifetime of support for each.<br>    I care very much for our little fur babies. So when you write to inquire about a puppy do not be insulted if I write back and ask you a few questions too. <br>    I hope you enjoy my site. If you have any suggestions on how I could make it better feel free to drop me a note. I am always open for feedback.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "PAULIE - FEMALE",
+        "order": 6
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Pomeranian House.",
+          "_anchor": "footer1-1q"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#c1c1c1",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/paulie-615x783.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paulie-615x783-615x783.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/paulie1-354x434.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paulie1-354x434-354x434.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/paulie2-599x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paulie2-599x960-599x960.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/paulie3-767x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paulie3-767x960-767x960.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1r"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-o\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-r\">PUPPIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-q\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#form1-s\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POMERANIAN HOUSE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>We have this ADORABLE white girl for sale! Her name is Paulie. She is a very confident girl with the HUGEST personality! She will have you laughing, and bending to her will in no time! She is also very intelligent. She is already asking to go outside to go potty! I feel like she is going to be easy to train. This little lady also talks! She growl talks! She will growl talk to ask to be picked up, ask for a toy, or let you know she wants something. She would be excellent for a family as she has a great energy, and stamina to acclimate well with a family who teaches their children how to be gentle and loving with a small dog. Her price is $850. Please EMAIL us for more info. The pictures above can be CLICKED to show the images larger. Also scroll down for videos of her cuteness! 8 Weeks old</blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#form1-s\" data-toolbar=\"-mbrBtnMove\">BUY OUR PAULIE</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1u"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "PRICES &amp; AKC PAPERS",
+        "order": 3
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Pomeranian House.",
+          "_anchor": "footer1-1v"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-o\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-r\">PUPPIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-q\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#form1-s\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POMERANIAN HOUSE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1w"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/540658-415427608468385-1916204195-n-800x735.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "How much do your Pomeranian puppies cost?",
+          "text": "<p>**Prices vary depending on Supply and Demand.**</p><p><span style=\"font-size: 1.07rem;\">**Prices reflect demand for certain Colors, Gender, Size &amp;</span></p><p>confirmation &amp; sometimes pedigree. **</p><p>**Girls, smaller sizes, and exotic colors are higher in demand and higher in value**</p><p><span style=\"font-size: 1.07rem;\">**Smaller sizes are in highest demand and so size can influence the price.**</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1y"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Prices are generally 750-950&nbsp;</b></p><p>I sell all my puppies without AKC papers. This is to help me place my puppies in PET homes only. Generally speaking only breeders want papers.  There are many unethical breeders out there who do not care for their dogs. Since I can't know who is ethical and who isn't, I only sell to PET HOMES now. Selling without papers helps keep my puppies in homes where they will get the attention and care they deserve.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1z",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>There are sooo many variants that influence the price of a puppy. The biggest one for us is that we want our puppies in a loving FOREVER home. Price equals value...and our puppies lives are of the greatest value from the day they are born. They are not expendable. They are not accessories to be bought and sold with careless disregard. They are individuals. They are important. They matter regardless of color, gender, size, or confirmations. From the day they are born, they matter.&nbsp;</blockquote><blockquote>&nbsp; &nbsp; Our #1 reason for our prices is to keep our puppies in the greatest committed loving pet homes for LIFE. Homes that have committed themselves to what it takes to own and care for a forever companion. We don't want anyone to buy one of our babies on a whim, or without doing their homework on what it takes to be a responsible owner. Poms can live up to 18 years or so, and they will depend on you for all that time to care for them, provide for them, and never give up on them, because they will never give up on you! ((*A note: If you were to buy a baby and at any time in its life find yourself unable to care or keep him/her, we will ALWAYS take our babies back.))</blockquote><blockquote>&nbsp; &nbsp; &nbsp;Our prices reflect our care, our time, our attention to our babies. Our babies are held from day one, they are played with every day, we have them vet checked, vaccinated, wormed, all that before leaving to help ensure a happy healthy start. All of this is our duty and our pleasure, to care for our babies. We get very attached to each one, and we can tell you all about each one's personalities! Because they are so rich in personalities, regardless of color, type, or confirmation...It is their individuality that we treasure! We care deeply for them and we want the very best for them and their future. We want you to be happy with your babies too! We want our babies to always be a perfect match with you!&nbsp;</blockquote><blockquote>Our puppies prices are $750-950 generally. Keep reading to see how we decide on individual values...</blockquote><blockquote>&nbsp; &nbsp; &nbsp;A puppy with the most desirable, or frequently requested, traits is going to have a higher value. Lowest prices for example might be for larger orange males (most common color, bigger in size, and male gender) that is not sold by the time it is 16 weeks. At that time that dogs price may be lowered. Most expensive prices would be for small white females with the most requested traits such as small muzzle, small ears, and a short cobby body (that is not a common color and the color, gender, and size #1 most requested). Those may go for higher than normal prices at $750-950.</blockquote><blockquote>&nbsp; &nbsp; Many pet stores charge this price or more for puppies, yet they sell SICK puppies from unethical breeders and puppy mills.They offer NO warranty, and your puppy may not survive to adulthood due to unsafe breeding practices at puppy mills and sick puppies being produced by sick, neglected parents. We do NOT approve of those practices. The prices that we charge ensure a healthy, happy puppy that has been raised inside our home with love, attention, and more than a little doting. Our puppies come from healthy, happy parents who are a part of our family and are treated as such. Our prices also include a warranty as well as a life long opportunity to contact us with any question or concern.&nbsp;</blockquote><blockquote>&nbsp; &nbsp;We strive to go that extra mile so that we may produce happy, healthy puppies. But to have a healthy puppy, we must start with healthy parents. Our price reflects the cost of healthy, quality parents: cost of Vet Checks to be sure that the parent is healthy, housing for adults, vaccines/worming, parasite prevention, vet fees, grooming, food, water, toys, treats, bedding, puppy pads, vitamins, quality time with people and training ect. It is not cheap to raise a healthy litter. Healthy parents create a great start for our puppies and it helps to ensure your puppy will live out its many years (as many as 18 or so!) with you!</blockquote><blockquote>&nbsp; &nbsp;WE encourage everyone to meet the parents, visit our home, and see the conditions the puppies are raised in. ALL my puppies get vet checked BEFORE they leave my home, they are kept current on worming and vaccines and will be here until I feel they are ready to leave their mother (small ones may be here as long as 16 weeks or more if needed). During that time they get used to all the household noises, get used to living in a home with a family, and will be kept current on vaccines/worming ect.  All my puppies come with a 1 year guarantee.&nbsp;</blockquote><blockquote><br></blockquote><blockquote><br></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-20"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>I used to include two prices for all my dogs. One price was lower, and it was without AKC papers. This was my way of trying to successfully place my dogs in loving pet homes only. The next price was higher with limited AKC papers for those who liked to have the paperwork of a purebred. To get the papers, you just had to bring proof of a spay or neuter, and then I would give out the limited AKC papers. My experience however, has taught me all the ways that this can come back to haunt me. Unfortunately, I have learned the hard way that not everyone is honest. It is mostly breeders who seem to desire the AKC papers of a dog. Many breeders are wonderful people. But, I have had BAD ONES try to forge my AKC papers, or sell dogs they say were from my lines but are ones they bought or bred in a puppy mill using the AKC papers they got on a pet dog I sold under a spay contract. Even though I sent them LIMITED AKC, they simply use another registry to register the unhealthy dogs that they claim were mine! That is MY NAME and my REPUTATION that is damaged when that occurs. I could fill pages with such stories.&nbsp;</p><p>&nbsp; &nbsp; When I have refused to sell a puppy to certain people (the puppy mill types who have no morals or ethics), I have been  harassed, my name has been slandered online in forums, and these breeders have targeted me to try and ruin my reputation. All this is done out of spite and hostility because I didn't want to sell to them and have my puppy grow up in a cage! For these reasons, and for many more I don't have room or time to post, I now only sell PET PUPPIES to PET HOMES with no AKC.</p><p>&nbsp; &nbsp; I have the right to REFUSE a sale. I worry about my puppies being in danger of falling into the wrong hands. I will not sell to anyone that I feel threatened by, who is pushy, or rude ect. Most of the time those are people who feel their rights to keep dogs in cages and run a puppy mill exceeds my rights to NOT sell to them.  My puppies mean the world to me, and I care about where they end up. Selling with AKC papers increases the chances my puppies can wind up in the wrong hands. I know the majority of people and breeders are GOOD and Honest, but the few bad ones have lead to me changing things to protect the puppies I love!</p><p>&nbsp; &nbsp; &nbsp; &nbsp;All my puppies are now listed at the lower pet price. I no longer offer my puppies with AKC papers. This has helped me put my fears to rest because I know my fur kids will only go to loving pet homes and will not end up in a puppy mill situation. I would rather lose a sale, than put them at risk for an unhappy life. I will be happy to show you the parent's FULL AKC papers when you buy your dog. ALL my adults are registered with AKC, and I have been inspected and given approval by AKC to raise my babies.&nbsp;</p><p>&nbsp; &nbsp; I know there are alot of good breeders out there. I do not have a problem with ethical people raising dogs. It is my passion, and I know many great people share it! However, they are no longer the majority. There are too many raising dogs in the most inhumane ways possible. Some who show dogs are just as guilty, so being a \"show home\" is not a gold stamp classification of ethics or morals. Since I can't know who is honest, and reputable (and everyone claims to be both) and who is a puppy mill, I no longer sell my Pomeranians to breeders or with AKC papers.&nbsp;</p><p>&nbsp; &nbsp; I do not wish for my babies to become victims in a puppy mill.   I do not wish for my dogs to live out their lives in a cage or kennel without the love and affection of caring owners. I do not want them neglected, abused, or forgotten. It is my dream that each dog will be the center of someone's universe! =) I try hard to make them ready for that life. Please do not be alarmed or insulted if I ask many questions about your intentions when you inquire about my puppies. Also if you're looking to buy a dog just to breed, please search elsewhere. Sorry.  Thanks for reading and thanks for your understanding.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-21"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "PAYMENTS",
+        "order": 2
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Pomeranian House.",
+          "_anchor": "footer1-24"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-o\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-r\">PUPPIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-q\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#form1-s\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POMERANIAN HOUSE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-25"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f28281"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Payment Plans, Deposits, and how do I BUY one of your puppies?",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-26"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Deposits:",
+          "meta": "&nbsp; &nbsp; &nbsp;If you see a puppy you would like to buy, you do not need to put up the whole amount down all at once. You can \"HOLD\" your puppy buy paying a non refundable Deposit of $200.00. Think of the Deposit as a Down Payment. This amount is NON refundable for ANY REASON. So only put down a deposit if you're sure you want the puppy. This lets us know you ARE a serious buyer and insures to us that you have thought this over and are ready to commit to your new forever companion. A deposit can only be made on ONE specific puppy. A deposit can not be put down for First pick of litter ect. ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-27"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "How do you make a deposit?",
+          "meta": "&nbsp; &nbsp; You can use PayPal to make your deposit. You can also use a credit card via pay pal but you have to pay the aditional 10% charges paypal charges to use credit cards. Or you can send a Western Union/MoneyGram transfer to our address which will be provided to you. After payment is received your puppy will then say \"PENDING to YOUR NAME\" next to it on my site so everyone knows it is now your puppy and its no longer for sale. :D",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-28"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Payment Plans or Pay off at Pick up?",
+          "meta": "&nbsp; &nbsp; After you make your Deposit you have two options for paying for the remaining balance due. Many choose to use payment plans. This is very easy to do as you set up the amounts you wish to pay and the time dates you plan to send in that amount. They puppy needs to be paid off by the time it is 8 weeks old. So depending on when you put down your deposit, will determine how many weeks and paychecks, you will have to pay off your puppy. For example, if you make a deposit when the puppy is born, then you would have 8 weeks (4 paychecks) to make payments toward the balance due. The payment plan option is only good for a puppy 4 weeks of age or under, after that you would need to go with the next option, see below. If the puppy is not paid off by the time he or she is 8 weeks old, the puppy will be posted back for sale, and all but your 200 non refundable deposit will be returned to you.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-29"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Pay off the puppy on pick up day.",
+          "meta": "&nbsp; &nbsp;This works well for those who pick a puppy that is 4 weeks of age or older. After the deposit is made, the puppy is held for you. Then you simply bring the balance owed with you in CASH, as we only take CASH at pick up. The puppy needs to be paid off by the age of  8 weeks old. If the puppy has to stay additional time because it is very small, it still needs to be paid off at the age of  8 weeks. ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "What if I am having the puppy shipped to me? How does that work?",
+          "meta": "&nbsp; &nbsp; &nbsp; All of the above is the same for a puppy that will be shipped. However, payments can be made through pay pal, or wire money orders can be sent via MoneyGram or Western Union as well. We can also discuss BANK to BANK transfers if you prefer. Just talk to me and we can work out a method that you feel most comfortable with.<br>&nbsp; &nbsp; &nbsp;The dog to be shipped will have to be paid in full before it will be shipped. Shipping charges will also have to be paid for/included. Shipping charges are an additional 300.00. This covers air faire for the puppy (usually 200-225, Vet health certificate 55-65, and gas for us to drive to the airport 65.00 and for the crate 35.00. The 300 doesn't fully cover my cost. But I don't wish to charge any more then that to ship. The airlines keep upping their cost of airfare but I want my shipping charge to stay the same for all.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "What if I put down a deposit and as the puppy gets older, it is not what I wanted??",
+          "meta": "&nbsp; &nbsp;We do not give a refund on deposits for any reason. However, if you decided to put a deposit down on a newborn or puppy up to  4 week old, and it grows to be a different color then you wanted, or you see a puppy still available that you like more,  you may apply your deposit to the other puppy you like that is still available. If there are no other puppies available at that time that you like,  you may apply the deposit to next litter I have coming up. This is only good  until the puppy you picked turns 6 weeks of age. When the puppy you picked turns 6 weeks of age your deposit will be NON TRANSFERABLE and no refund or transfer will be given. I can NOT , and will NOT make any exceptions to this rule. Sorry. The TRANSFER option is only good ONE TIME ONLY. So if you decide to change your mind be 100 percent sure the other puppy is what you want. The TRANSFER is only available ONE TIME, after that there is NO REFUND and NO TRANSFER option available. Again, No exceptions to this rule. Transfer of deposit is a one time courtesy only and there is a 1 year time limit to chose your a different puppy. If you do not find a puppy in the 1 year time, the offer is then void and no refund will be given.<br><br>Example:<br>A 200 deposit is put down on puppy #1 because you want an orange sable.<br>at  4 weeks of age the puppy is changing to look more like a cream sable.<br>Puppy #2 is an orange Sable and still available.<br>You decide at that time to transfer your deposit to puppy #2.<br><br>Example:<br>A 200 deposit is made on puppy #1.<br>At 7 weeks you decide the puppy is not what you expected.<br>Because the puppy is over the age of  6 weeks no refund or transfer will be given.<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2c"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Why do you only give transfer of the deposit for the puppy til the 6 week mark?",
+          "meta": "&nbsp; &nbsp;Pomeranian puppies have a stage they go through called the puppy uglies. See my FUR FACTS page for more info on this age stage for poms. For some puppies this process can start as early as 8 weeks. I like to have all puppies sold by the time they reach 8 weeks. I need time to resell a puppy if someone decided they no longer want it. Making the cut off age at 6 weeks gives me two weeks to advertise and resell the puppy that was previously spoken for. ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "What if I decide I just don't want a puppy? Why don't I get a refund?",
+          "meta": "&nbsp; &nbsp;ALL deposits are NON REFUNDABLE. Most breeders do not even do a transfer of deposits. When you put down a deposit a puppy is held for you. If you change your mind I have to relist the puppy and it may be older and harder to place. I want everyone who claims a puppy to be SERIOUS about buying the puppy and committing to the puppy. For all those reasons ALL DEPOSITS are NON REFUNDABLE for any reason. ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "36px"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "What if something happens to the puppy before its time for it to go home?",
+          "meta": "If something should happen to the puppy you chose, you will be able to apply that deposit to a different puppy for up to 1 year from the date you made your deposit. You can choose  from what I have available within that year keeping your gender, color, and size desires in mind. :D",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2f"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "CARA - FEMALE",
+        "order": 1
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Pomeranian House.",
+          "_anchor": "footer1-2l"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header4-o\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features1-r\">PUPPIES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-q\">TESTIMONIALS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">ABOUT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#form1-s\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">POMERANIAN HOUSE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2m"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#7c706b",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cara-500x416.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cara-500x416-500x416.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cara1-500x484.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cara1-500x484-500x484.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cara4-500x331.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cara4-500x331-500x331.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/cara3-500x435.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cara3-500x435-500x435.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-2o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Cara is a little chunk who is ready to take a nap on your cozy couch! She loves people, especially when they give her long belly rubs! She is a big lover and is always excited when you come home and she does great with children! She also loves to play outside and has such a spunky attitude. She has a nice balance in being playful and sweet! Cara is current on vaccinations, vet checked, and micro-chipped! To make sure he has the best possible start, we will enroll him in AKC's puppy protection package, which covers his registration fee and gives great resources for having a new puppy in your life! Don’t miss out on the newest addition to your family. She will be sure to steal your heart away<span style=\"font-size: 1.09rem;\">.</span></p><p><span style=\"font-size: 1.09rem;\">Age: 7 Weeks old</span></p><p><span style=\"font-size: 1.09rem;\">Price: $850</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2p"
+        }
+      ]
+    }
+  }
+}
