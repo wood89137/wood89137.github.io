@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page8.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1192,7 +1192,7 @@
             "overlayOpacity": 0.5
           },
           "title": "A LITTLE BIT ABOUT US",
-          "text": "<p>We are now located in Southern Texas. We just moved here from California. We live on 3 beautiful acres. It is so pretty and GREEN here! Here is a picture of our home. We just moved in so no landscaping has been done. But it will be done soon!!</p>",
+          "text": "<p>We are now located in Oklahoma. We just moved here from California. We live on 3 beautiful acres. It is so pretty and GREEN here! Here is a picture of our home. We just moved in so no landscaping has been done. But it will be done soon!!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
