@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 99,
     "versionPublish": "4.3.4",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/cropped-favicon-225x225-128x128-1.png",
     "noImageResize": ""
   },
   "pages": {
