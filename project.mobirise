@@ -59,7 +59,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -126,10 +126,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/cropped-favicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -743,7 +744,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -810,10 +811,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/cropped-favicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -947,7 +949,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1014,10 +1016,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/cropped-favicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1084,7 +1087,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1151,10 +1154,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/cropped-favicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1336,7 +1340,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1403,10 +1407,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/cropped-favicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1473,7 +1478,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1540,10 +1545,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/cropped-favicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1665,7 +1671,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1732,10 +1738,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/cropped-favicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2052,7 +2059,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -2119,10 +2126,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/cropped-favicon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
